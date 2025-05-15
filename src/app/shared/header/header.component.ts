@@ -91,5 +91,5 @@ export class HeaderComponent implements OnInit {
     }
 
     this.toggleSearch(); // Close search overlay after submitting
-  }
+  }
 }
